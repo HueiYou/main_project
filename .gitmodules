@@ -1,0 +1,3 @@
+[submodule "a_project"]
+	path = a_project
+	url = https://github.com/HueiYou/a_project
